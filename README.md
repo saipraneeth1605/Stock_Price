@@ -1,4 +1,4 @@
-# DeepCraft_Stock_Prediction
+# DeepCraft_Stock_Price
 
 ## Stock Price Prediction Using LSTM
 
@@ -33,7 +33,7 @@ pip install numpy pandas scikit-learn tensorflow
 #### Clone the repository
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/Aayushstrom/DeepCraft_Stock_Prediction.git
+git clone https://github.com/saipraneeth1605/Stock_Price.git
 ```
 ### Prepare the Dataset
 Place your stock price dataset (CSV format) in the same directory as the script. Ensure the dataset contains the columns required for the analysis, such as:
@@ -60,9 +60,6 @@ After running the program, you will see the RMSE of the LSTM model printed in th
 
 ### Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgements
 * TensorFlow and Keras for the deep learning framework.
